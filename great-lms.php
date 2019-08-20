@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Great LMS
  * Plugin URI:        http://fahdi.github.io/great-mls
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This is my take on learning management system in wordpress.
  * Version:           1.0.0
  * Author:            Fahad Murtaza
  * Author URI:        https://fahdmurtaza.com
